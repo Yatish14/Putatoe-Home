@@ -1,5 +1,4 @@
 import './App.css';
-// import rechargeLogo from "./images/image1.png";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
 import ServiceProducts from './components/ServiceProducts';

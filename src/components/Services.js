@@ -1,12 +1,13 @@
 import React from 'react';
 import "../App.css";
+import rechargeLogo from "../images/image1.png";
 
 const Services = () => {
   return (
     <div>
         <div className="mainContainer">
             <div>
-                <img className="mainLogo" src="https://storage.googleapis.com/putatoeapp/Image/testImage/68V03LL" alt = "Recharge Logo"></img>
+                <img className="mainLogo" src={rechargeLogo} alt = "Recharge Logo"></img>
             </div>
         </div>
         <div className="icons">
