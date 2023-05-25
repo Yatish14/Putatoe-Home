@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Putatoe-Home/static/css/main.614381ae.css",
-    "main.js": "/Putatoe-Home/static/js/main.61ffc901.js",
+    "main.js": "/Putatoe-Home/static/js/main.ec0b9bf2.js",
+    "static/media/image1.png": "/Putatoe-Home/static/media/image1.f841a3220af5358f9d49.png",
     "index.html": "/Putatoe-Home/index.html",
     "main.614381ae.css.map": "/Putatoe-Home/static/css/main.614381ae.css.map",
-    "main.61ffc901.js.map": "/Putatoe-Home/static/js/main.61ffc901.js.map"
+    "main.ec0b9bf2.js.map": "/Putatoe-Home/static/js/main.ec0b9bf2.js.map"
   },
   "entrypoints": [
     "static/css/main.614381ae.css",
-    "static/js/main.61ffc901.js"
+    "static/js/main.ec0b9bf2.js"
   ]
 }
