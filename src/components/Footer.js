@@ -1,11 +1,12 @@
 import React from 'react';
 import "../App.css";
+import Logo from "../images/image2.png"
 
 const Footer = () => {
   return (
     <>
       <div className='putatoeLogo'>
-          <img src = "https://www.putatoe.com/img/logo.png" alt='Logo'></img>
+          <img src = {Logo} alt='Logo'></img>
         </div>
         <div className='icons footer'>
             <div>
@@ -22,7 +23,7 @@ const Footer = () => {
             </div>
             <div className='logo-div'>
                 <div className='logo-icon'>
-                    <img src = "https://www.putatoe.com/img/logo.png" alt='Logo'></img>
+                    <img src = {Logo} alt='Logo'></img>
                 </div>
             </div>
             <div>
